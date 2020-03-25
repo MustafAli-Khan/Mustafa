@@ -1,0 +1,161 @@
+body {
+  color:#40514e;
+  margin: 0;
+
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-weight: bold;
+
+
+}
+p{
+    line-height: 2;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #66BFBF;
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top-container {
+
+  background-color: #beebe9;
+  position: relative;
+  padding-top: 100px;
+}
+
+.zero {
+  font-weight: normal;
+  margin-top: 0;
+}
+
+
+
+.middle-container {
+  background-color: white;
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 30px;
+
+  line-height: 2;
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+
+}
+.intro{
+  width:30%;
+  margin: auto;
+}
+.top-cloud {
+  position: absolute;
+  right: 250px;
+  top: 100px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 270px;
+  bottom: 350px;
+}
+
+.code-img {
+  width: 25%;
+
+  float: left;
+  margin-right: 30px;
+}
+
+.chilli-img {
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+}
+
+.footer-link {
+  margin: auto 30px auto 30px;
+  text-decoration: none;
+  line-height: 2;
+}
+
+.attribute {
+  color: #EAF6F6;
+  margin-top: 10px;
+  font-size: 0.75rem;
+}
+
+.copyright {
+  margin-bottom: 0;
+  color: #EAF6F6;
+  font-size: 0.75rem;
+}
+
+hr {
+  margin: 80px auto 80px auto;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 8px;
+  border-color: grey;
+  width: 5%;
+}
+
+.button {
+  margin: 100px auto 100px auto;
+}
+
+.myButton {
+  background: linear-gradient(to bottom, #66BFBF 100%);
+  background-color: #66BFBF;
+  border-radius: 11px;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: 'Merriweather', serif;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 13px 29px;
+  text-decoration: none;
+}
+
+.myButton:hover {
+  background: linear-gradient(to bottom, #66BFBF 100%);
+  background-color: #30e3cb;
+}
+
+.myButton:active {
+  position: relative;
+  top: 1px;
+}
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Merriweather', serif;
+}
+a:hover{
+color:#eaf6f6
+
+}
